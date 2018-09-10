@@ -1,0 +1,51 @@
+
+body {
+  background: #333;
+}
+
+.white {
+  color: white;
+}
+
+.spacer {
+  height: 50px;
+}
+
+.mycell {
+  color: white;
+  font-size: 24px;
+  height: 80px;
+  width: 80px;
+  vertical-align: -40%;
+  margin: auto;
+  
+}
+
+.left-cells {
+  border-bottom: 3px solid #9cf;
+  border-right: 3px solid #9cf;
+}
+
+.bot-cells {
+  border-right: 3px solid #9cf;
+}
+
+.rt-cells {
+  border-bottom: 3px solid #9cf;
+}
+
+.large {
+  font-size: 36px;
+  text-align: center;
+  vertical-align: -45%;
+}
+
+.mycell:hover {
+  background-color: #222;
+}
+
+.buttons {
+  height: 80px;
+  width: 80px;
+  vertical-align: -40%;
+}
